@@ -58,10 +58,10 @@ No additional installation or dependencies are required.
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home page.png)
+![Home Page](screenshots/home-page.png)
 
 ### 👨‍💼  Home Page Responsive
-![Team Section](screenshots/popular package responsive.png)
+![Team Section](screenshots/popular-package-responsive.png)
 
 ## 📚 Learning Outcomes
 
