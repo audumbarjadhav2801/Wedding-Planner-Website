@@ -57,28 +57,11 @@ No additional installation or dependencies are required.
 
 ## 📸 Screenshots
 
-Add screenshots of your website here.
+### 🏠 Home Page
+![Home Page](screenshots/home page.png)
 
-Example:
-
-```text
-screenshots/
-├── home.png
-├── about.png
-├── services.png
-├── gallery.png
-└── contact.png
-```
-
-Then display them like this:
-
-```md
-## Home Page
-
-![Home](screenshots/home.png)
-```
-
----
+### 👨‍💼  Home Page Responsive
+![Team Section](screenshots/popular package responsive.png)
 
 ## 📚 Learning Outcomes
 
